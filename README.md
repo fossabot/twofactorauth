@@ -5,6 +5,7 @@ TwoFactorAuth.org
 [![License](https://img.shields.io/badge/license-mit-blue.svg?style=flat)](/LICENSE)
 [![Gitter](https://img.shields.io/gitter/room/2factorauth/twofactorauth.svg)](https://gitter.im/2factorauth/twofactorauth)
 [![Twitter](https://img.shields.io/badge/Twitter-@2faorg-blue.svg)](https://twitter.com/2faorg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjamcat22%2Ftwofactorauth.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjamcat22%2Ftwofactorauth?ref=badge_shield)
 
 A list of popular sites and whether or not they accept two factor auth.
 
@@ -44,3 +45,6 @@ This code is distributed under the MIT license. For more info, read the
 
 [contrib]: /CONTRIBUTING.md
 [license]: /LICENSE
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjamcat22%2Ftwofactorauth.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjamcat22%2Ftwofactorauth?ref=badge_large)
